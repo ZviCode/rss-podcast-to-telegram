@@ -179,7 +179,7 @@ DATABASE_URL=your-database-url
 
 ## קרדיטים
 - chatgpt (readme file)
-- my_telegram_grup(idea)
+- my_telegram_group(idea)
 
 
 #
