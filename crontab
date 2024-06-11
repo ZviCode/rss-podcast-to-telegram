@@ -1,0 +1,2 @@
+# Run the Python script every hour
+0 * * * * /usr/local/bin/python3 /app/app.py >> /var/log/cron.log 2>&1
