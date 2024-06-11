@@ -127,7 +127,7 @@ DATABASE_URL=your-database-url
     import repo
 
     podcast_name = 'שם הפודקאסט שלך'
-    rss_link = 'https://your-podcast.com/rss
+    rss_link = 'https://your-podcast.com/rss'
     chat_id = '-1001234567890'  # החלף במזהה הערוץ שלך ב-Telegram
 
     repo.add_podcast(podcast_name, rss_link, chat_id)
